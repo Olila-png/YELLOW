@@ -1,0 +1,80 @@
+#frame {
+    background-color: white;
+    padding-top: 0px;
+    padding-bottom: 100px;
+}
+
+a:link {
+    text-decoration: none;
+}
+
+a:visited {
+    color: #FFE071;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+
+div {
+    float: right;
+    padding: 40px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #FFE071;
+    background: white;
+    margin-bottom: 5%;
+}
+
+
+.div3:hover {
+    font-size: 35px;
+}
+
+.div4:hover {
+    font-size: 35px;
+}
+
+.div5:hover {
+    font-size: 35px;
+}
+
+.div1 {
+    margin-bottom: 50px;
+    margin-left: 80px;
+    margin-right: 80px;
+    font-size: 30px;
+}
+
+.div2 {
+    margin-left: 200px;
+    font-size: 30px;
+}
+
+.div3 {
+    font-size: 30px;
+    margin-right: 35px;
+}
+
+.div4 {
+    font-size: 30px;
+    margin-right: 120px;
+}
+
+.div5{
+    font-size: 30px;
+    margin-right: 100px;
+}
+
+
+img {
+    float: left;
+    border-radius: 50%;
+    margin-left: 70px;
+    margin-right: 25px;
+}
+
+.lowers {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    float: center;
+    padding-left: 40%;
+    padding-right: 40%;
+}
